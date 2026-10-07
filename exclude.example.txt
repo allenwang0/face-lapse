@@ -1,0 +1,4 @@
+# Copy this file to exclude.txt. Use exact filenames or date:YYYY-MM-DD.
+# Photos remain untouched; exclusions only affect generated output.
+Photo on 1-2-24 at 3.04 PM.jpg
+date:2024-10-16

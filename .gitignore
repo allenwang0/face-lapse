@@ -1,0 +1,14 @@
+.DS_Store
+work/
+tools/detect
+tools/segment
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.gif
+*.mp4
+!docs/*.png
+exclude.txt
+.venv/
+__pycache__/
